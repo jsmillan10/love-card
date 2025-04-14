@@ -46,19 +46,17 @@ function App() {
             <div className="inner__content">
               <div className="preview-card">
                 <p className="texto-preview">
-                  Amorcito felices 2 meses ❤️ estoy muy feliz de tenerte en mi
-                  vida, agradezco mucho ese 14 de Febrero que decidí pedirte que
-                  iniciaras una relación conmigo porque desde ese día he sido
-                  muy muy feliz contigo! Eres una personita increíble, con
-                  muchísimas cualidades, capacidades y demasiado amor en tu
-                  corazón, y yo soy demasiado afortunado de tenerte y recibir
-                  todo ese amor de ti 🥰 Yo a ti te amo con todo mi corazón mi
-                  vida y amo cada parte de ti, tu forma de ser conmigo me llena
-                  el corazón y me hace sentir feliz y tranquilo, y yo solo
-                  quiero que tú te sientas igual todo el tiempo así que de mi
-                  parte seguiré dándolo todo por ti para que construyamos un
-                  futuro juntitos 👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽 Te amo niña linda ❤️ Att: tu ingeniero
-                  (lindo) Pdt: me hubiera encantado hacer una carta{' '}
+                  Amorcito felices 2 meses ❤️
+                  <br />
+                  Estoy muy feliz de tenerte en mi vida, agradezco mucho ese 14
+                  de Febrero que decidí pedirte que iniciaras una relación
+                  conmigo porque desde ese día he sido muy muy feliz contigo!
+                  <br />
+                  <br />
+                  Si quieres seguir leyendo haz click en la carta linda
+                  <br />
+                  <br />
+                  <span className="texto-preview-heart">❤️❤️❤️</span>
                 </p>
               </div>
             </div>
@@ -79,19 +77,29 @@ function App() {
             <div className="notebook-paper">
               <div className="notebook-content">
                 <p>
-                  Amorcito felices 2 meses ❤️ estoy muy feliz de tenerte en mi
-                  vida, agradezco mucho ese 14 de Febrero que decidí pedirte que
-                  iniciaras una relación conmigo porque desde ese día he sido
-                  muy muy feliz contigo! Eres una personita increíble, con
-                  muchísimas cualidades, capacidades y demasiado amor en tu
-                  corazón, y yo soy demasiado afortunado de tenerte y recibir
-                  todo ese amor de ti 🥰 Yo a ti te amo con todo mi corazón mi
-                  vida y amo cada parte de ti, tu forma de ser conmigo me llena
-                  el corazón y me hace sentir feliz y tranquilo, y yo solo
-                  quiero que tú te sientas igual todo el tiempo así que de mi
-                  parte seguiré dándolo todo por ti para que construyamos un
-                  futuro juntitos 👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽 Te amo niña linda ❤️ Att: tu ingeniero
-                  (lindo) Pdt: me hubiera encantado hacer una carta{' '}
+                  Amorcito felices 2 meses ❤️
+                  <span className="custom-break"></span>
+                  Estoy muy feliz de tenerte en mi vida, agradezco mucho ese 14
+                  de Febrero que decidí pedirte que iniciaras una relación
+                  conmigo porque desde ese día he sido muy muy feliz contigo!  😁
+                  <span className="custom-break"></span>
+                  Eres una personita increíble, con muchísimas cualidades,
+                  capacidades y demasiado amor en tu corazón, y yo soy demasiado
+                  afortunado de tenerte y recibir todo ese amor de ti  🥰
+                  <span className="custom-break"></span>
+                  Yo a ti te amo con todo mi corazón mi vida y amo cada parte de
+                  ti, tu forma de ser conmigo me llena el corazón y me hace
+                  sentir feliz y tranquilo, y yo solo quiero que tú te sientas
+                  igual todo el tiempo así que de mi parte seguiré dándolo todo
+                  por ti para que construyamos un futuro juntitos  👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽
+                  <span className="custom-break"></span>
+                  Te amo niña linda ❤️
+                  <span className="custom-break"></span>
+                  Att: tu ingeniero (lindo) 👨🏽‍💻
+                  <span className="custom-break"></span>
+                  Pdt: me hubiera encantado hacer una carta física, pero opté
+                  por hacerla digital para que la tengas contigo todo el tiempo
+                   ☺️
                 </p>
               </div>
             </div>
