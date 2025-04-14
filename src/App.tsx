@@ -29,7 +29,7 @@ function App() {
       <div
         id="email"
         className={isOpen ? 'open' : ''}
-        onClick={handleShowDialog}
+        onClick={isOpen ? handleShowDialog : undefined}
       >
         <div className="body">
           <div className="body__border"></div>
@@ -81,17 +81,17 @@ function App() {
                   <span className="custom-break"></span>
                   Estoy muy feliz de tenerte en mi vida, agradezco mucho ese 14
                   de Febrero que decidí pedirte que iniciaras una relación
-                  conmigo porque desde ese día he sido muy muy feliz contigo!  😁
+                  conmigo porque desde ese día he sido muy muy feliz contigo! 😁
                   <span className="custom-break"></span>
                   Eres una personita increíble, con muchísimas cualidades,
                   capacidades y demasiado amor en tu corazón, y yo soy demasiado
-                  afortunado de tenerte y recibir todo ese amor de ti  🥰
+                  afortunado de tenerte y recibir todo ese amor de ti 🥰
                   <span className="custom-break"></span>
                   Yo a ti te amo con todo mi corazón mi vida y amo cada parte de
                   ti, tu forma de ser conmigo me llena el corazón y me hace
                   sentir feliz y tranquilo, y yo solo quiero que tú te sientas
                   igual todo el tiempo así que de mi parte seguiré dándolo todo
-                  por ti para que construyamos un futuro juntitos  👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽
+                  por ti para que construyamos un futuro juntitos 👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽
                   <span className="custom-break"></span>
                   Te amo niña linda ❤️
                   <span className="custom-break"></span>
@@ -99,7 +99,7 @@ function App() {
                   <span className="custom-break"></span>
                   Pdt: me hubiera encantado hacer una carta física, pero opté
                   por hacerla digital para que la tengas contigo todo el tiempo
-                   ☺️
+                  ☺️
                 </p>
               </div>
             </div>
