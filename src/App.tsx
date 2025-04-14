@@ -77,28 +77,39 @@ function App() {
             <div className="notebook-paper">
               <div className="notebook-content">
                 <p>
-                  Amorcito felices 2 meses ❤️
+                  Amor de mi vida felices 2 meses ❤️
                   <span className="custom-break"></span>
-                  Estoy muy feliz de tenerte en mi vida, agradezco mucho ese 14
-                  de Febrero que decidí pedirte que iniciaras una relación
-                  conmigo porque desde ese día he sido muy muy feliz contigo! 😁
+                  Estoy muy feliz de tenerte en mi vida, agradezco cada día por
+                  ese 14 de Febrero que decidí pedirte que iniciaras una
+                  relación conmigo porque desde ese día he sido muy muy feliz
+                  contigo! 😁
                   <span className="custom-break"></span>
                   Eres una personita increíble, con muchísimas cualidades,
                   capacidades y demasiado amor en tu corazón, y yo soy demasiado
                   afortunado de tenerte y recibir todo ese amor de ti 🥰
                   <span className="custom-break"></span>
-                  Yo a ti te amo con todo mi corazón mi vida y amo cada parte de
-                  ti, tu forma de ser conmigo me llena el corazón y me hace
-                  sentir feliz y tranquilo, y yo solo quiero que tú te sientas
-                  igual todo el tiempo así que de mi parte seguiré dándolo todo
-                  por ti para que construyamos un futuro juntitos 👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽
+                  Amo que seas tan creativa, juguetona, especial, inteligente,
+                  tierna, consentida, sentimental, cariñosa, hermosa y muchas
+                  cosas más de mi lista!!! Y también quiero que sepas que con
+                  cada cosa que haces y cada mensajito que me envías yo me
+                  derrito y me enamoro cada día más de ti 💖
                   <span className="custom-break"></span>
-                  Te amo niña linda ❤️
+                  Yo a ti te amo con todo mi corazón mi vida, amo cada parte de
+                  ti y confío plenamente en ti, además que tu forma de ser
+                  conmigo me llena el corazón y me hace sentir feliz y
+                  tranquilo, y yo solo quiero que tú te sientas igual todo el
+                  tiempo, así que de mi parte seguiré dándolo todo por ti para
+                  que te sientas igual y nos sigamos amando todos los días 👩🏼‍🤝‍👨🏽👩🏼‍❤️‍💋‍👨🏽
                   <span className="custom-break"></span>
-                  Att: tu ingeniero (lindo) 👨🏽‍💻
+                  Te amo, te extraño un montón y te quiero acá conmigo ya niña
+                  linda y por eso seguiré trabajando cada día para estar lo más
+                  pronto posible a ti construyendo un futuro juntitos ❤️
+                  <span className="custom-break"></span>
+                  Att: tu ingeniero (lindo) 👨🏽‍💻 y el amor de tu vida 💍
                   <span className="custom-break"></span>
                   Pdt: me hubiera encantado hacer una carta física, pero opté
-                  por hacerla digital para que la tengas contigo todo el tiempo
+                  por hacerla digital para que la cargues contigo todo el tiempo
+                  (y yo no tenga que pedirte fotos de mis cartas jajaja te amo)
                   ☺️
                 </p>
               </div>
