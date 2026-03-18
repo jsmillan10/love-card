@@ -1,9 +1,11 @@
 import './index.scss'
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 function App() {
   const [isOpen, setIsOpen] = useState(false)
   const [showDialog, setShowDialog] = useState(false)
+  const navigate = useNavigate()
 
   const handleToggleOpen = () => {
     setIsOpen(!isOpen)
@@ -23,6 +25,9 @@ function App() {
         <h1 className="title">Nuevo mensaje para Chiara</h1>
         <button className="open-button" onClick={handleToggleOpen}>
           {isOpen ? 'Ciérrame y ámame' : 'Abrir'}
+        </button>
+        <button className="open-button" onClick={() => navigate('/la-mejor-novia')}>
+          Segunda carta 💌
         </button>
       </div>
 
